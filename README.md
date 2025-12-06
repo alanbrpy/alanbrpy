@@ -34,7 +34,7 @@ Bringing together years of experience in Product Management with hands-on Softwa
 ![Pytest](https://img.shields.io/badge/pytest-0A9EDC.svg?style=plastic\&logo=pytest\&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-Extremely_fast_Python_linter-black?style=plastic\&logo=python\&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-Fast_Python_Installer-orange?style=plastic\&logo=python\&logoColor=white)
-![typer](https://img.shields.io/badge/Typer-Command%20Line%20Interface-000000?style=plastic\&logo=python\&logoColor=white)
+![ty](https://img.shields.io/badge/Ty-Command%20Line%20Interface-000000?style=plastic\&logo=python\&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic\&logo=google-cloud\&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic\&logo=mongodb\&logoColor=white)
